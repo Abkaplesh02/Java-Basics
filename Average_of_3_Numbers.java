@@ -1,3 +1,5 @@
+// Average of 3 numbers
+
 import java.util.Scanner;
 
 public class Average_of_3_Numbers {
